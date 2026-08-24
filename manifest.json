@@ -1,0 +1,13 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "CountStockAI",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "CountStockAI",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "id": "com.jpitak.countstoc",
+  "description": "ระบบตรวจนับสินค้า Count Stock AI"
+}
