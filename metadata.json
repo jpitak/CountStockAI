@@ -1,0 +1,6 @@
+{
+  "name": "OGA Count Stock Mobile PDA",
+  "description": "Mobile PDA Barcode Scanner Stock Count Application for OGA International Co., Ltd.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
